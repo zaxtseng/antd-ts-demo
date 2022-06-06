@@ -11,12 +11,12 @@ const routes = [
     {
         path: '/config/productConfig',
         element: <ProductConfig />,
-        key: 1
+        key: 2
     },
     {
         path: '/config/productPrice',
         element: <ProductPrice />,
-        key: 1
+        key: 3
     },
 ]
 
